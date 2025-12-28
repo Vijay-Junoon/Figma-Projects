@@ -18,7 +18,16 @@ Tracking my daily UI/UX practice with Figma
 
 ---
 
+## Day 03 - Project work
+![Day 3](Day%20-%2003/socialMediaViz.png)
+-Started designing with project in mind.
+-Learned visual hierarchy using minimalistic colours
+
+---
+
 | Day | Topic | Preview|
 |----|----|----|
 |1|Basics|<img src="Day - 01/LandingPage.png" alt="Landing page image" width="120">|
 |2|Colors|<img src="Day - 02/Hero Page.png" alt="Hero page image" width="120">|
+|3|Project Work|<img src="Day - 03/socialMediaViz.png" alt="Social Media page image" width="120">|
+
